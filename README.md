@@ -27,6 +27,7 @@ app = Flask(__name__)
 def hello():
     return "Hello, World!"
 ```
+Modified by Ritty to demonstrate changes!
 
 ```
 $ flask run
